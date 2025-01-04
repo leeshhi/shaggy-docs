@@ -1,4 +1,4 @@
-# YAGPDB Docs v2
+# Shaggy Docs v2
 
 Experimental / proof of concept page to replace the current documentation which is built with GitBook.
 
