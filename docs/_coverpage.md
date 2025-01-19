@@ -1,4 +1,4 @@
-![logo](_media/shag1.png ':size=100')
+![logo](_media/logo.png ':size=100')
 
 # Shaggy Bot
 
