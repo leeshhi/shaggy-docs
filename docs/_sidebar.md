@@ -3,7 +3,7 @@
 - [**Twitch**](twitch.md "Twitch")
 - [**YouTube**](youtube.md "YouTube")
 - [**Temporary Voice**](tempvoice.md "Temporary Voice")
-- [**Tickets**](ticket.md "Tickets")
+- [**Ticket**](ticket.md "Ticket")
 - [**Suggestion**](suggestion.md "Suggestion")
 - [**Starboard**](starboard.md "Starboard")
 - [**Welcome**](welcome.md "Welcome")
