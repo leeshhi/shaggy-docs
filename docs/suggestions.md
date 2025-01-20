@@ -3,7 +3,6 @@
 <!--![Suggestions](_images/suggestions.png ':size=75%')-->
 
 ## Settings
-
 ?> `suggestion-limit` This option is optimal and turned off by default.
 <!-- tabs:start -->
 <!-- tab:Slash Commands -->
@@ -17,6 +16,7 @@ Name              | Example           | Usage
 <!-- tabs:end -->
 
 ## Making Suggestions
+?> Should be public, but can be limited to a certain channel.
 <!-- tabs:start -->                                                    
 <!-- tab:Slash Commands -->
 Anyone can use the `suggest` command to make suggestions.
