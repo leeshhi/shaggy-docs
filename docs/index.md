@@ -1,6 +1,6 @@
 ## Shaggy Bot
 
-A fully customizable, multi-purpose and modular discord bot with endless list of features.
+The Discord bot to make server management and moderation easy. Follow your favorite streamers, run giveaways, and more!
 
 ## Documentation
 
@@ -11,7 +11,7 @@ See the **[Getting Started](/getting-started)** guide for more details.
 - Moderation
 - Logging
 - Social Feeds
-- Temp Voice
+- Temporary Voice
 - Advanced Suggestions
 - Reaction Roles
 - Tickets
