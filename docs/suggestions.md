@@ -31,8 +31,8 @@ Name              | Example           | Usage
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**suggestion approve** \<suggestionid> [reason]<br><span class="user-permissions">Administrator</span> | `/suggestion approve 3` | Approves a suggestion.                    
-**suggestion deny** \<suggestionid> [reason]<br><span class="user-permissions">Administrator</span> | `/suggestion deny 4 spam` | Denies a suggestion.                       
-**suggestion consider** \<suggestionid> [reason]<br><span class="user-permissions">Administrator</span> | `/suggestion consider 5` | Marks a suggestion as being considered. 
-**suggestion implemented** \<suggestionid> [reason]<br><span class="user-permissions">Administrator</span> | `/suggestion implemented 1 Added` | Marks a suggestion as implemented.
+**suggestion approve** \<suggestionid> [reason] | `/suggestion approve 3` | Approves a suggestion.                    
+**suggestion deny** \<suggestionid> [reason] | `/suggestion deny 4 spam` | Denies a suggestion.                       
+**suggestion consider** \<suggestionid> [reason] | `/suggestion consider 5` | Marks a suggestion as being considered. 
+**suggestion implemented** \<suggestionid> [reason] | `/suggestion implemented 1 Added` | Marks a suggestion as implemented.
 <!-- tabs:end -->
