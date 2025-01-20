@@ -18,6 +18,6 @@
 - [**Birthdays**](birthday.md "Birthday")
 - [**Wall of Shame**](wol.md "Wall of Shame")
 - [**Miscellaneous**](misc.md "Miscellaneous")
-- [**Embeds**](embed.md "Embeds")
+- [**‼️ Limits**](limits.md "Limits")
 
 <footer id="mb-footer"></footer>
