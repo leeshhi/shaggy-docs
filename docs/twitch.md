@@ -3,7 +3,7 @@
 <!-- ![Twitch](_images/twitch.png ':size=100%')-->
 
 <!-- tabs:start -->
-## Settings
+### Settings
 ?> Twitch settings to setup twitch notifications.
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
