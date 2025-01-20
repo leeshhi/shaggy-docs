@@ -5,7 +5,7 @@
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**ticket enable** \<channel> [channel=tickets]<br><span class="user-permissions">Administrator</span> | `/settings ticket enable #tickets` | Sets the category for new tickets.
+**ticket enable** \[channel]<br><span class="user-permissions">Administrator</span> | `/settings ticket enable #tickets` | Sets the category for new tickets.
 **ticket limit** \<amount><br><span class="user-permissions">Administrator</span> | `/settings ticket limit 5` | Sets the max open ticket amount per user.
 **ticket type** \<type><br><span class="user-permissions">Administrator</span> | `/settings ticket type Channels (Default)` | Lets you change the ticket type between channels and threads.
 **ticket disable** <br><span class="user-permissions">Administrator</span> | `/settings ticket disable` | Disables the ticket-system.
