@@ -2,7 +2,7 @@
 - [**Permissions**](misc.md "Permissions")
 - [**Twitch**](twitch.md "Twitch")
 - [**YouTube**](youtube.md "YouTube")
-- [**Temp Voice**](misc.md "Temp Voice")
+- [**Temporary Voice**](misc.md "Temporary Voice")
 - [**Tickets**](ticket.md "Tickets")
 - [**Suggestions**](suggestions.md "Suggestions")
 - [**Starboard**](misc.md "Starboard")
