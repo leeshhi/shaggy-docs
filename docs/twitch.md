@@ -27,20 +27,22 @@ Name              | Example           | Usage
 **twitch update message** \<user> <msg><br><span class="user-permissions">Administrator</span> | `/twitch update message XYZ message` | Lets you change the default live notification for user XYZ.
 **twitch list**<br><span class="user-permissions">Administrator</span>   | `/twitch list`    | Shows all the binded streamers and their live status.
 **twitch online**<br><span class="user-permissions">Administrator</span> | `/twitch online`  | Shows all currently live streamers.
-**twitch filter add** \<user> <type> <value><br><span class="user-permissions">Administrator</span> | `/twitch filter`  | Lets you apply certain filter functions to the clips.
-**twitch filter remove** \<user> <type> <value><br><span class="user-permissions">Administrator</span> | `/twitch filter`  | Lets you remove certain filter functions to the clips.
+**twitch filter add** \<user> <type> <value><br><span class="user-permissions">Administrator</span> | `/twitch filter add XYZ`  | Lets you apply certain filter functions to the clips.
+**twitch filter remove** \<user> <type> <value><br><span class="user-permissions">Administrator</span> | `/twitch filter remove XYZ`  | Lets you remove certain filter functions to the clips.
 <!-- tabs:end -->
 
 ## Extras
-### Variables
+
 ?> These variables can be used in the message that is sent when a streamer goes live:
+### Variables
 - `{link}` - Shows the stream link
 - `{name}` - Shows the streamer's username
 - `{game}` - SHows the Game being played
 - `{here}` - Tags @here
 - `{everyone}` - Tags @everyone
-### Filters
+
 !> If you don't want clips to be filtered, don't use filters, so all created clips will be posted. These filters can be used to limit the clips that should be sent on Discord.
+### Filters
 - `keyword` - Certain words must be included in the stream title.
 - `user` - Clips from certain users are only posted.
 - `category` - Only clips from certain categories will be posted.
