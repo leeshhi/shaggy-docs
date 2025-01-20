@@ -8,7 +8,7 @@
 - [**Starboard**](starboard.md "Starboard")
 - [**Welcome**](welcome.md "Welcome")
 - [**Games**](games.md "Games")
-- [**AutoMod**](atuomod.md "AutoMod")
+- [**Automod**](atuomod.md "Automod")
 - [**Auto Purge**](purge.md "Auto Purge")
 - [**Level**](level.md "Level")
 - [**Giveaway**](giveaway.md "Giveaway")
