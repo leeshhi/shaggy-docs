@@ -16,7 +16,7 @@ Name              | Example           | Usage
 <!-- tabs:end -->
 
 ## Making Suggestions
-?> Should be public, but can be limited to a certain channel.
+?> Should be public if you want to use suggestions, but can be limited to a certain channel.
 <!-- tabs:start -->                                                    
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
