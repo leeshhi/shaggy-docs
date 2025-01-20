@@ -2,9 +2,9 @@
 
 <!-- ![Twitch](_images/twitch.png ':size=100%')-->
 
-<!-- tabs:start -->
 ## Settings
 ?> Twitch settings to setup twitch notifications.
+<!-- tabs:start -->
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
@@ -13,9 +13,9 @@ Name              | Example           | Usage
 **settings twitch disable** <br><span class="user-permissions">Administrator</span> | `/settings twitch disable` | Turns off all twitch notifications.
 <!-- tabs:end -->
 
-<!-- tabs:start -->
 ## Commands
 ?> Twitch settings to manage users.
+<!-- tabs:start -->
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
