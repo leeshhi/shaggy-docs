@@ -12,7 +12,7 @@ Name              | Example           | Usage
 **suggestion enable** [channel=suggestions]<br><span class="user-permissions">Administrator</span> | `/settings suggestion enable channel:#suggestions` | Sets a channel as the suggestions channel.
 **suggestion limit** \<limit><br><span class="user-permissions">Administrator</span> | `/settings suggestion limit 5` | The amount of votes difference required to change the embed color to red/green.
 **suggestion duration** \<limit><br><span class="user-permissions">Administrator</span> | `/settings suggestion duration 14d` | The length until a suggestion is automatically closed is 7 days by default.
-**suggestion decisions** \<limit><br><span class="user-permissions">Administrator</span> | `/settings suggestion decisions aprove #suggest` | Lets you split the actions of a suggestion into various channels. [Suggestion Decisions](https://docs.joink.xyz/#/suggestions?id=suggestion-decisions)
+**suggestion decisions** \<limit><br><span class="user-permissions">Administrator</span> | `/settings suggestion decisions aprove #suggest` | Lets you split the actions of a suggestion into various channels. [Suggestion Decisions](https://docs.shag.gg/#/suggestions?id=suggestion-decisions)
 **suggestion disable** \<limit><br><span class="user-permissions">Administrator</span> | `/settings suggestion disable` | Turns the entire suggestions system off.
 <!-- tabs:end -->
 
