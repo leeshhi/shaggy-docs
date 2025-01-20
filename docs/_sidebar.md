@@ -17,6 +17,7 @@
 - [**Statistics**](stats.md "Statistics")
 - [**Birthdays**](birthday.md "Birthday")
 - [**Wall of Shame**](wol.md "Wall of Shame")
+- [**Miscellaneous**](misc.md "Miscellaneous")
 - [**Embeds**](embed.md "Embeds")
 
 <footer id="mb-footer"></footer>
