@@ -4,7 +4,7 @@
 - [**YouTube**](youtube.md "YouTube")
 - [**Temporary Voice**](tempvoice.md "Temporary Voice")
 - [**Tickets**](ticket.md "Tickets")
-- [**Suggestions**](suggestions.md "Suggestions")
+- [**Suggestion**](suggestion.md "Suggestion")
 - [**Starboard**](starboard.md "Starboard")
 - [**Welcome**](welcome.md "Welcome")
 - [**Games**](games.md "Games")
