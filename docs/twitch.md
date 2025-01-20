@@ -14,6 +14,7 @@ Name              | Example           | Usage
 <!-- tabs:end -->
 
 <!-- tabs:start -->
+### Commands
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
