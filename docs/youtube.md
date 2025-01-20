@@ -3,6 +3,7 @@
 
 ?> ⭐ **Limits**<br>Non Premium Shaggy servers are limited to subscribing to 15 YouTube channel notifications.<br>Premium Shaggy servers are unlimited to subscribing to how many Twitch channel notifications they want.
 
+## Settings
 <!-- tabs:start -->
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
@@ -13,7 +14,7 @@ Name              | Example           | Usage
 <!-- tabs:end -->
 
 ?> These variables can be used in the message that is sent when a youtube alert is received:
-### Variables
+## Variables
 - `{link}` - Channel link
 - `{author}` - Channel name
 - `{here}` - Tags @here
