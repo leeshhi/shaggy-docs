@@ -7,11 +7,11 @@
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**twitch user add** \<name> [channel] [msg]<br><span class="user-permissions">Manage Server</span> | `/twitch user add shroud #live {name} went live` | Binds the streamer's live alerts to the channel.
-**twitch list**<br><span class="user-permissions">Manage Server</span>   | `/twitch list`    | Shows all the binded streamers and their live status.
-**twitch online**<br><span class="user-permissions">Manage Server</span> | `/twitch online`  | Shows all currently live streamers.
-**twitch user remove** \<name><br><span class="user-permissions">Manage Server</span> | `/twitch user remove shroud` | Unbinds a streamer's live alerts.
-**twitch filter**<br><span class="user-permissions">Manage Server</span> | `/twitch filter`  | Lets you use filters for clips, only clips that match the filters are posted.
+**twitch user add** \<name> [channel] [msg]<br><span class="user-permissions">Administrator</span> | `/twitch user add shroud #live {name} went live` | Binds the streamer's live alerts to the channel.
+**twitch list**<br><span class="user-permissions">Administrator</span>   | `/twitch list`    | Shows all the binded streamers and their live status.
+**twitch online**<br><span class="user-permissions">Administrator</span> | `/twitch online`  | Shows all currently live streamers.
+**twitch user remove** \<name><br><span class="user-permissions">Administrator</span> | `/twitch user remove shroud` | Unbinds a streamer's live alerts.
+**twitch filter**<br><span class="user-permissions">Administrator</span> | `/twitch filter`  | Lets you use filters for clips, only clips that match the filters are posted.
 <!-- tabs:end -->
 ?> **Information/Changes**<br>`<channel>` and `<msg>` are optimal and do not have to be used. If they are left empty, the global fallback properties are used.<br>User updates can be made if you use user add and just add/leav empty the options.
 
@@ -40,9 +40,9 @@ These filters can be used to limit the clips that should be sent on Discord.
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | -----------------------------------------------------------------------------
-**youtube user add** \<name> [id]<br><span class="user-permissions">Manage Server</span> | `/youtube user add UCX6OQ3DkcsbYNE6H8uQQuVA` | Binds the youtuber channel's alerts to the channel. Can use channel id only at the time (which is the most accurate way).
-**youtube list**<br><span class="user-permissions">Manage Server</span> | `/youtube list` | Shows all the binded youtubers and the connected channels.         
-**youtube user remove** \<name><br><span class="user-permissions">Manage Server</span> | `/youtube user remove UCX6OQ3DkcsbYNE6H8uQQuVA` | Unbinds a youtuber channel's alerts.
+**youtube user add** \<name> [id]<br><span class="user-permissions">Administrator</span> | `/youtube user add UCX6OQ3DkcsbYNE6H8uQQuVA` | Binds the youtuber channel's alerts to the channel. Can use channel id only at the time (which is the most accurate way).
+**youtube list**<br><span class="user-permissions">Administrator</span> | `/youtube list` | Shows all the binded youtubers and the connected channels.         
+**youtube user remove** \<name><br><span class="user-permissions">Administrator</span> | `/youtube user remove UCX6OQ3DkcsbYNE6H8uQQuVA` | Unbinds a youtuber channel's alerts.
 <!-- tabs:end -->
 
 ### Variables
