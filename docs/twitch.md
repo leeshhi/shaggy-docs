@@ -4,17 +4,30 @@
 <!-- ![Twitch](_images/twitch.png ':size=100%')-->
 
 <!-- tabs:start -->
+?> Twitch settings to setup twitch notifications.
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**twitch user add** \<name> [channel] [msg]<br><span class="user-permissions">Administrator</span> | `/twitch user add shroud #live {name} went live` | Binds the streamer's live alerts to the channel.
+**settings twitch live** \[channel]<br><span class="user-permissions">Administrator</span> | `/settings twitch live #announcements` | Sets the default twitch notification channel.
+**settings twitch clips** \[channel]<br><span class="user-permissions">Administrator</span> | `/settings twitch clips #announcements` | Sets the default twitch clips channel.
+**settings twitch disable** <br><span class="user-permissions">Administrator</span> | `/settings twitch disable` | Turns off all twitch notifications.
+<!-- tabs:end -->
+
+<!-- tabs:start -->
+<!-- tab:Slash Commands -->
+Name              | Example           | Usage                                                                         
+ ---------------- | ----------------- | ----------------------------------------------------------------------------- 
+**twitch user add** \<user><br><span class="user-permissions">Administrator</span> | `/twitch user add XYZ` | Turns on twitch notifications for user XYZ.
+**twitch clips enable** \<user> [channel]<br><span class="user-permissions">Administrator</span> | `/twitch clips enable XYZ` | Turns on the clips for user XYZ.
+**twitch clips disable** \<user> [channel]<br><span class="user-permissions">Administrator</span> | `/twitch clips disable XYZ` | Turns off the clips for user XYZ.
+**twitch update message** \<user> <msg><br><span class="user-permissions">Administrator</span> | `/twitch update message XYZ message` | Lets you change the default live notification for user XYZ.
+**twitch user add** \<user><br><span class="user-permissions">Administrator</span> | `/twitch user add XYZ` | Turns on twitch notifications for user XYZ.
 **twitch list**<br><span class="user-permissions">Administrator</span>   | `/twitch list`    | Shows all the binded streamers and their live status.
 **twitch online**<br><span class="user-permissions">Administrator</span> | `/twitch online`  | Shows all currently live streamers.
-**twitch user remove** \<name><br><span class="user-permissions">Administrator</span> | `/twitch user remove shroud` | Unbinds a streamer's live alerts.
-**twitch filter**<br><span class="user-permissions">Administrator</span> | `/twitch filter`  | Lets you use filters for clips, only clips that match the filters are posted.
+**twitch user remove** \<user><br><span class="user-permissions">Administrator</span> | `/twitch user remove shroud` | Unbinds a streamer's live alerts.
+**twitch filter add** \<user> <type> <value><br><span class="user-permissions">Administrator</span> | `/twitch filter`  | Lets you apply certain filter functions to the clips.
+**twitch filter remove** \<user> <type> <value><br><span class="user-permissions">Administrator</span> | `/twitch filter`  | Lets you remove certain filter functions to the clips.
 <!-- tabs:end -->
-?> **Information/Changes**<br>`<channel>` and `<msg>` are optimal and do not have to be used. If they are left empty, the global fallback properties are used.<br>User updates can be made if you use user add and just add/leav empty the options.
-
 
 ### Variables
 These variables can be used in the message that is sent when a streamer goes live:
@@ -23,7 +36,6 @@ These variables can be used in the message that is sent when a streamer goes liv
 - `{game}` - SHows the Game being played
 - `{here}` - Tags @here
 - `{everyone}` - Tags @everyone
-
 
 ### Filters
 ?> If you don't want clips to be filtered, don't use filters, so all created clips will be posted.
