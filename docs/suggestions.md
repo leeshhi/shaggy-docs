@@ -9,7 +9,7 @@
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | -----------------------------------------------------------------------------                      
-**suggestion enable** [channel=suggestions]<br><span class="user-permissions">Administrator</span> | `/settings suggestion enable channel:#suggestions` | Sets a channel as the suggestions channel.
+**suggestion enable** [channel=suggestions]<br><span class="user-permissions">Administrator</span> | `/settings suggestion enable #suggestions` | Sets a channel as the suggestions channel.
 **suggestion limit** \<limit><br><span class="user-permissions">Administrator</span> | `/settings suggestion limit 5` | The amount of votes difference required to change the embed color to red/green.
 **suggestion duration** \<limit><br><span class="user-permissions">Administrator</span> | `/settings suggestion duration 14d` | The length until a suggestion is automatically closed is 7 days by default.
 **suggestion decisions** \<limit><br><span class="user-permissions">Administrator</span> | `/settings suggestion decisions aprove #suggest` | Lets you split the actions of a suggestion into various channels. [Suggestion Decisions](https://docs.shag.gg/#/suggestions?id=suggestion-decisions)
@@ -32,8 +32,8 @@ Name              | Example           | Usage
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**suggestion approve** \<suggestionid> [reason] | `/suggestion approve 3` | Approves a suggestion.                    
+**suggestion approve** \<suggestionid> [reason] | `/suggestion approve 1 aproved` | Approves a suggestion.                    
 **suggestion deny** \<suggestionid> [reason] | `/suggestion deny 4 spam` | Denies a suggestion.                       
-**suggestion consider** \<suggestionid> [reason] | `/suggestion consider 5` | Marks a suggestion as being considered. 
+**suggestion consider** \<suggestionid> [reason] | `/suggestion consider 5 consider` | Marks a suggestion as being considered. 
 **suggestion implemented** \<suggestionid> [reason] | `/suggestion implemented 1 Added` | Marks a suggestion as implemented.
 <!-- tabs:end -->
