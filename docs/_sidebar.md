@@ -4,7 +4,6 @@
 - [**Twitch**](twitch.md "Twitch")
 - [**YouTube**](youtube.md "YouTube")
 - [**Starboard**](misc.md "Starboard")
-- [**Ticket**](misc.md "Ticket")
 - [**Temp Voice**](misc.md "Temp Voice")
 - [**Welcome**](notifications.md "Welcome")
 - [**Permissions**](misc.md "Permissions")
