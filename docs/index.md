@@ -6,6 +6,10 @@ The Discord bot to make server management and moderation easy. Follow your favor
 
 See the **[Getting Started](/getting-started)** guide for more details.
 
+## Support
+
+Users and the development team usually provide support in the **[Shaggy Help](https://dc.sshag.gg)** Discord server.
+
 ## Features
 
 - Moderation
@@ -18,7 +22,3 @@ See the **[Getting Started](/getting-started)** guide for more details.
 - Welcome Messages
 
 ✔ **A lot more...**
-
-## Support
-
-Users and the development team usually provide support in the **[Shaggy Help](https://dc.sshag.gg)** Discord server.
