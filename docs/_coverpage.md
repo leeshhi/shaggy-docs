@@ -4,6 +4,6 @@
 
 > Welcome to the Documentation
 
-Don't be shy, we are open source so feel free to improve the docs
+The Discord bot to make server management and moderation easy. Follow your favorite streamers, run giveaways, and more!
 
 [Get Started](#Documentation)
