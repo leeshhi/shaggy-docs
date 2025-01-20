@@ -1,4 +1,3 @@
-## YouTube
 !> Is currently disabled until recoded
 
 ?> ⭐ **Limits**<br>Non Premium Shaggy servers are limited to subscribing to 15 YouTube channel notifications.<br>Premium Shaggy servers are unlimited to subscribing to how many Twitch channel notifications they want.
