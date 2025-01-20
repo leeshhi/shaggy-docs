@@ -9,11 +9,11 @@
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | -----------------------------------------------------------------------------                      
-**suggestion enable** [channel=suggestions]<br><span class="user-permissions">Administrator</span> | `/settings suggestion enable #suggestions` | Sets a channel as the suggestions channel.
-**suggestion limit** \<limit><br><span class="user-permissions">Administrator</span> | `/settings suggestion limit 5` | The amount of votes difference required to change the embed color to red/green.
-**suggestion duration** \<limit><br><span class="user-permissions">Administrator</span> | `/settings suggestion duration 14d` | The length until a suggestion is automatically closed is 7 days by default.
-**suggestion decisions** \<limit><br><span class="user-permissions">Administrator</span> | `/settings suggestion decisions aprove #suggest` | Lets you split the actions of a suggestion into various channels. [Suggestion Decisions](https://docs.shag.gg/#/suggestions?id=suggestion-decisions)
-**suggestion disable** \<limit><br><span class="user-permissions">Administrator</span> | `/settings suggestion disable` | Turns the entire suggestions system off.
+**suggestion enable** \<channel> [channel=suggestions]<br><span class="user-permissions">Administrator</span> | `/settings suggestion enable #suggestions` | Sets a channel as the suggestions channel.
+**suggestion limit** \<amount><br><span class="user-permissions">Administrator</span> | `/settings suggestion limit 5` | The amount of votes difference required to change the embed color to red/green.
+**suggestion duration** \<duration><br><span class="user-permissions">Administrator</span> | `/settings suggestion duration 14d` | The length until a suggestion is automatically closed is 7 days by default.
+**suggestion decisions** \<type> <channel><br><span class="user-permissions">Administrator</span> | `/settings suggestion decisions aprove #suggest` | Lets you split the actions of a suggestion into various channels. [Suggestion Decisions](https://docs.shag.gg/#/suggestions?id=suggestion-decisions)
+**suggestion disable** <br><span class="user-permissions">Administrator</span> | `/settings suggestion disable` | Turns the entire suggestions system off.
 <!-- tabs:end -->
 
 ## Making Suggestions
