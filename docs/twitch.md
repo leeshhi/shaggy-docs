@@ -1,4 +1,4 @@
-?> **Limits**<br>Non-Donor Shaggy servers are limited to subscribing to 15 Twitch channel notifications.<br>Donor Shaggy servers are unlimited to subscribing to how many Twitch channel notifications they want.
+?> ⭐ **Limits**<br>Non Premium Shaggy servers are limited to subscribing to 15 Twitch channel notifications.<br>Premium Shaggy servers are unlimited to subscribing to how many Twitch channel notifications they want.
 
 <!-- ![Twitch](_images/twitch.png ':size=100%')-->
 
