@@ -27,8 +27,8 @@ Name              | Example           | Usage
 <!-- tabs:end -->
 
 ## Suggestion Decisions
-<!-- tabs:start -->     
 !> The default permissions for who can execute this command should be set independently in the server settings, note the bot welcome message!
+<!-- tabs:start -->     
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
