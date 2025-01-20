@@ -15,6 +15,7 @@ Name              | Example           | Usage
 
 <!-- tabs:start -->
 ## Commands
+?> Twitch settings to manage users.
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
@@ -32,7 +33,7 @@ Name              | Example           | Usage
 
 ## Extras
 ### Variables
-These variables can be used in the message that is sent when a streamer goes live:
+?> These variables can be used in the message that is sent when a streamer goes live:
 - `{link}` - Shows the stream link
 - `{name}` - Shows the streamer's username
 - `{game}` - SHows the Game being played
