@@ -1,4 +1,4 @@
-## ![logo](_media/logo.png ':size=50') Shaggy Bot
+## ![logo](_media/logo.png ':size=40') Shaggy Bot
 
 The Discord bot to make server management and moderation easy. Follow your favorite streamers, run giveaways, and more!
 
