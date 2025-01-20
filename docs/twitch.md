@@ -30,7 +30,7 @@ Name              | Example           | Usage
 **twitch filter remove** \<user> <type> <value><br><span class="user-permissions">Administrator</span> | `/twitch filter`  | Lets you remove certain filter functions to the clips.
 <!-- tabs:end -->
 
-### Extras
+## Extras
 ### Variables
 These variables can be used in the message that is sent when a streamer goes live:
 - `{link}` - Shows the stream link
