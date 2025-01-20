@@ -3,7 +3,7 @@
 <!-- ![Twitch](_images/twitch.png ':size=100%')-->
 
 <!-- tabs:start -->
-### Settings
+## Settings
 ?> Twitch settings to setup twitch notifications.
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
@@ -14,7 +14,7 @@ Name              | Example           | Usage
 <!-- tabs:end -->
 
 <!-- tabs:start -->
-### Commands
+## Commands
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
@@ -30,6 +30,7 @@ Name              | Example           | Usage
 **twitch filter remove** \<user> <type> <value><br><span class="user-permissions">Administrator</span> | `/twitch filter`  | Lets you remove certain filter functions to the clips.
 <!-- tabs:end -->
 
+### Extras
 ### Variables
 These variables can be used in the message that is sent when a streamer goes live:
 - `{link}` - Shows the stream link
@@ -37,7 +38,6 @@ These variables can be used in the message that is sent when a streamer goes liv
 - `{game}` - SHows the Game being played
 - `{here}` - Tags @here
 - `{everyone}` - Tags @everyone
-
 ### Filters
 ?> If you don't want clips to be filtered, don't use filters, so all created clips will be posted.
 These filters can be used to limit the clips that should be sent on Discord.
