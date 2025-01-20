@@ -2,7 +2,6 @@
 
 ## Settings
 <!-- tabs:start -->
-
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
@@ -13,7 +12,7 @@ Name              | Example           | Usage
 
 
 ## Ticket Controls
-
+<!-- tabs:start -->
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
@@ -24,8 +23,8 @@ Name              | Example           | Usage
 
 ## Create Ticket
 <!-- tabs:start -->
-
 <!-- tab:Prefix Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
 **m?ticket** [channel=current]<br><span class="user-permissions">Administrator</span> | `m?ticket` | Creates the ticket in the channel you are sending the message to.
+<!-- tabs:end -->
