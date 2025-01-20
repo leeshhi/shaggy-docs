@@ -5,9 +5,9 @@
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**ticket setup** <br><span class="user-permissions">Administrator</span> | `/settings ticket setup #tickets` | Sets the category for new tickets.
+**ticket enable** <br><span class="user-permissions">Administrator</span> | `/settings ticket enable channel:#tickets` | Sets the category for new tickets.
 **ticket limit** <br><span class="user-permissions">Administrator</span> | `/settings ticket limit 5` | Sets the max open ticket amount per user.
-**ticket disable** <br><span class="user-permissions">Administrator</span> | `/settings disable` | Disables the ticket-system.
+**ticket disable** <br><span class="user-permissions">Administrator</span> | `/settings ticket disable` | Disables the ticket-system.
 <!-- tabs:end -->
 
 
@@ -26,5 +26,5 @@ Name              | Example           | Usage
 <!-- tab:Prefix Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**m?ticket** [channel=current]<br><span class="user-permissions">Administrator</span> | `m?ticket` | Creates the ticket in the channel you are sending the message to.
+**m?ticket** [channel=current]<br><span class="user-permissions">Administrator</span> | `s?ticket` | Creates the ticket in the channel you are sending the message to.
 <!-- tabs:end -->
