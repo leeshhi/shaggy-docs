@@ -32,6 +32,7 @@ Name              | Example           | Usage
 <!-- tabs:end -->
 
 ## Extras
+
 ### Variables
 ?> These variables can be used in the message that is sent when a streamer goes live:
 - `{link}` - Shows the stream link
@@ -39,9 +40,9 @@ Name              | Example           | Usage
 - `{game}` - SHows the Game being played
 - `{here}` - Tags @here
 - `{everyone}` - Tags @everyone
+
 ### Filters
-?> If you don't want clips to be filtered, don't use filters, so all created clips will be posted.
-These filters can be used to limit the clips that should be sent on Discord.
+!> If you don't want clips to be filtered, don't use filters, so all created clips will be posted.\nThese filters can be used to limit the clips that should be sent on Discord.
 - `keyword` - Certain words must be included in the stream title.
 - `user` - Clips from certain users are only posted.
 - `category` - Only clips from certain categories will be posted.
