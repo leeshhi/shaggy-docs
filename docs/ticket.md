@@ -5,7 +5,7 @@
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**ticket enable** \<channel> [channel=suggestions]<br><span class="user-permissions">Administrator</span> | `/settings ticket enable #tickets` | Sets the category for new tickets.
+**ticket enable** \<channel> [channel=tickets]<br><span class="user-permissions">Administrator</span> | `/settings ticket enable #tickets` | Sets the category for new tickets.
 **ticket limit** \<amount><br><span class="user-permissions">Administrator</span> | `/settings ticket limit 5` | Sets the max open ticket amount per user.
 **ticket type** \<type><br><span class="user-permissions">Administrator</span> | `/settings ticket type Channels (Default)` | Lets you change the ticket type between channels and threads.
 **ticket disable** <br><span class="user-permissions">Administrator</span> | `/settings ticket disable` | Disables the ticket-system.
@@ -17,8 +17,8 @@ Name              | Example           | Usage
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**ticket add** <br><span class="user-permissions">Administrator</span> | `/ticket add @Shaggy` | Allows you to add users and/or roles in a ticket.
-**ticket remove** <br><span class="user-permissions">Administrator</span> | `/ticket remove @Shaggy` | Allows you to remove users and/or roles in a ticket.
+**ticket add** \<user/role><br><span class="user-permissions">Administrator</span> | `/ticket add @Shaggy` | Allows you to add users and/or roles in a ticket.
+**ticket remove** \<user/role><br><span class="user-permissions">Administrator</span> | `/ticket remove @Shaggy` | Allows you to remove users and/or roles in a ticket.
 <!-- tabs:end -->
 
 
